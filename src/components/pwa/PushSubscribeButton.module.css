@@ -1,0 +1,21 @@
+.button {
+  background: #3293cd;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 13px;
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+}
+
+.button:hover {
+  background: #2580b5;
+}
+
+.subscribed {
+  background: #4caf50;
+}
+
+.subscribed:hover {
+  background: #45a049;
+}

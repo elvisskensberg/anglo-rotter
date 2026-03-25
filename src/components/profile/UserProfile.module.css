@@ -1,0 +1,46 @@
+.profileContainer {
+  max-width: var(--rotter-container);
+  margin: 0 auto;
+}
+
+.profileTitle {
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--rotter-text-primary);
+  font-family: var(--rotter-font-primary);
+  background-color: var(--rotter-header-bg);
+  padding: 4px 6px;
+  border-bottom: 1px solid #999;
+}
+
+.infoRow {
+  background-color: var(--rotter-row-odd);
+  padding: 8px;
+}
+
+.username {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000099;
+  font-family: var(--rotter-font-primary);
+}
+
+.stat {
+  font-size: var(--rotter-size-xs);
+  font-family: var(--rotter-font-primary);
+  color: var(--rotter-text-primary);
+}
+
+.ratersCount {
+  font-size: var(--rotter-size-xs);
+  font-family: var(--rotter-font-primary);
+  color: var(--rotter-green-rating);
+  font-weight: bold;
+}
+
+.points {
+  font-size: var(--rotter-size-xs);
+  font-family: var(--rotter-font-primary);
+  color: var(--rotter-text-time);
+  font-weight: bold;
+}

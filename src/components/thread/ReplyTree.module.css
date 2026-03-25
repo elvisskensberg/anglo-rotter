@@ -1,0 +1,6 @@
+.headerRow th {
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  color: var(--rotter-text-primary);
+  font-weight: bold;
+}

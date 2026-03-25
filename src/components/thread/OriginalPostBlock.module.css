@@ -1,0 +1,9 @@
+/* OriginalPostBlock.module.css */
+/* Source: data/design/thread_page.html — class="text16b" on h1 post title */
+
+.text16b {
+  font-size: var(--rotter-size-post-title); /* 16px */
+  font-weight: bold;
+  font-family: var(--rotter-font-primary);
+  color: var(--rotter-text-primary);
+}

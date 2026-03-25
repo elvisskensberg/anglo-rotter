@@ -1,0 +1,13 @@
+.categoryTab {
+  background-color: var(--rotter-news-teal);
+  color: #ffffff;
+  text-align: center;
+  margin: 0 1px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: var(--rotter-subheader-blue);
+  text-decoration: underline;
+}

@@ -1,0 +1,46 @@
+/* ThreadRow CSS Module — styling for forum thread row cells */
+
+/* Thread title link: 15px Arial bold navy */
+.text15bn {
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-thread-title);
+  font-weight: bold;
+  color: var(--rotter-text-primary);
+  text-decoration: none;
+}
+
+.text15bn:hover {
+  text-decoration: underline;
+}
+
+/* Standard 13px Arial metadata text */
+.text13 {
+  font-family: var(--rotter-font-primary);
+  font-size: 13px;
+}
+
+/* Author link in "last by" cell — blue */
+.lastByLink {
+  font-family: var(--rotter-font-primary);
+  font-size: 13px;
+  font-weight: bold;
+  color: var(--rotter-lastby-link);
+  text-decoration: none;
+}
+
+.lastByLink:hover {
+  text-decoration: underline;
+}
+
+/* Author link in main author cell — navy */
+.authorLink {
+  font-family: var(--rotter-font-primary);
+  font-size: 13px;
+  font-weight: bold;
+  color: var(--rotter-text-primary);
+  text-decoration: none;
+}
+
+.authorLink:hover {
+  text-decoration: underline;
+}

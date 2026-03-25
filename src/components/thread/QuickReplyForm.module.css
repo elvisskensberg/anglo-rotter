@@ -1,0 +1,6 @@
+.textarea {
+  width: 100%;
+  max-width: 500px;
+  font-family: inherit;
+  font-size: var(--rotter-size-sm);
+}

@@ -1,0 +1,15 @@
+.diegoTitle {
+  font-weight: bold;
+  font-size: 10pt;
+  color: var(--rotter-text-time); /* red */
+}
+
+.diegoContent {
+  color: var(--rotter-text-primary); /* #000099 */
+  font-size: 8pt;
+  text-decoration: none;
+}
+
+.diegoContent:hover {
+  text-decoration: underline;
+}

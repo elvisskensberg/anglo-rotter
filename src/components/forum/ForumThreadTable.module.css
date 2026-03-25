@@ -1,0 +1,32 @@
+/* ForumThreadTable.module.css — tooltip overlay styles */
+
+/**
+ * Fixed-position tooltip overlay.
+ * CRITICAL: pointer-events: none prevents tooltip from capturing mouse events
+ * which would freeze tooltip tracking at the tooltip boundary.
+ * Source: scoops_forum.html lines 496-515, pitfall 1 in 03-RESEARCH.md
+ */
+.tooltip {
+  position: fixed;
+  z-index: 4;
+  width: 350px;
+  border: 1px solid #000000;
+  pointer-events: none;
+}
+
+.tooltipHeader {
+  background-color: var(--rotter-tooltip-header); /* #7D92A9 */
+  padding: 4px 8px;
+  font-family: var(--rotter-font-primary);
+  font-weight: bold;
+  font-size: var(--rotter-size-tooltip-title); /* 10pt */
+  color: #ffffff;
+}
+
+.tooltipBody {
+  background-color: var(--rotter-tooltip-content); /* #e6f2ff */
+  padding: 4px 8px;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-tooltip-body); /* 9pt */
+  color: #000000;
+}

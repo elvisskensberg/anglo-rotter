@@ -1,0 +1,27 @@
+{
+  "snapshot_date": "2026-03-22T18:45:00+03:00",
+  "section": "enews",
+  "section_name": "English News Aggregator",
+  "sources": ["Jerusalem Post", "Times of Israel", "Arutz 7", "Algemeiner"],
+  "headlines": [
+    {"title": "IDF strikes on Litani bridge a prelude to ground invasion, Lebanon's President Aoun says", "date": "22/03/2026"},
+    {"title": "Classified report warned Netanyahu of air defense gaps before Iran war", "date": "22/03/2026"},
+    {"title": "Iran using 'satellite-like' launches to double missile range", "date": "22/03/2026"},
+    {"title": "Trump threatens to 'obliterate' Iran's power plants if Strait of Hormuz remains shut", "date": "22/03/2026"},
+    {"title": "Saudi Arabia expelling Iran's military attache brings normalization into question", "date": "22/03/2026"},
+    {"title": "Almost 200 injured, 11 seriously, in Iranian missile strikes on Arad, Dimona", "date": "22/03/2026"},
+    {"title": "IDF kills commander of Hezbollah's Radwan Force", "date": "22/03/2026"},
+    {"title": "15 injured in central Israel as Iranian cluster munitions impact", "date": "22/03/2026"},
+    {"title": "CIA, Mossad said seeking signs of Mojtaba Khamenei, Iran's unseen leader", "date": "22/03/2026"},
+    {"title": "One killed in Hezbollah attack near northern border; Iran renews fire on center, south", "date": "22/03/2026"},
+    {"title": "Building collapses in Dimona, over 70 injured in latest barrages from Iran, Lebanon", "date": "22/03/2026"},
+    {"title": "Patriot missile may have exploded over Bahrain homes, injuring dozens", "date": "22/03/2026"},
+    {"title": "IDF strikes Iranian nuclear weapons research facility in Tehran", "date": "22/03/2026"},
+    {"title": "IAEA confirms attack on Natanz nuclear facility", "date": "22/03/2026"},
+    {"title": "US said to strike Iran's Natanz enrichment site", "date": "22/03/2026"},
+    {"title": "Robert Mueller, who probed Russia's 2016 election meddling, dies; Trump: 'Good, I'm glad'", "date": "22/03/2026"},
+    {"title": "Three weeks in, Iran war appears to have escalated beyond Trump's control", "date": "22/03/2026"},
+    {"title": "Gulf states expel Iranian diplomats as tensions rise", "date": "22/03/2026"},
+    {"title": "Missile debris falls in Amman as Jordan faces direct threats amid Israel-Iran war", "date": "22/03/2026"}
+  ]
+}

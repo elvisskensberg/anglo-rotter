@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.navTable {
+  width: var(--rotter-nav-bar-width);
+  height: var(--rotter-blue-bar-height);
+  background-color: var(--rotter-nav-blue);
+}
+
+.navItem {
+  color: var(--rotter-text-header);
+  font-family: var(--rotter-font-primary);
+  font-weight: bold;
+  font-size: 10pt;
+  text-decoration: none;
+  padding: 0 8px;
+  white-space: nowrap;
+}
+
+.navItem:hover {
+  text-decoration: underline;
+}

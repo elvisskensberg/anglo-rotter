@@ -1,0 +1,99 @@
+{
+  "snapshot_date": "2026-03-22T18:45:00+03:00",
+  "forum": "politics",
+  "forum_name": "פוליטיקה (Politics)",
+  "total_threads_scraped": 30,
+  "pages_scraped": 1,
+  "threads": [
+    {
+      "title": "הבהרה: יש להביא את הידיעה/הסרטון כולה ולא רק קישור לידיעה",
+      "title_en": "Clarification: Must bring the full news item, not just a link",
+      "author": "שלומצי",
+      "category": "meta"
+    },
+    {
+      "title": "לחצי השמאל על ביידן לפני 7/10",
+      "title_en": "Left-wing pressure on Biden before Oct 7",
+      "author": "אלמוני",
+      "category": "politics"
+    },
+    {
+      "title": "ביבי קורא לאזרחי הונגריה להצביע לאורבן. האם לישראל מותר להתערב בבחירות זרות?",
+      "title_en": "Bibi calls on Hungarian citizens to vote for Orban. Can Israel interfere in foreign elections?",
+      "author": "אקטואלי",
+      "category": "politics"
+    },
+    {
+      "title": "תחתית חדשה: בזמן מלחמה הנאשם מפעיל את פרופ-שופר שלו",
+      "title_en": "New low: During war, the defendant operates his professor-shofar",
+      "author": "אקטואלי",
+      "category": "politics"
+    },
+    {
+      "title": "כלכלת חימושים-פוליטיקה-ופגיעות",
+      "title_en": "Economics of ammunition, politics, and casualties",
+      "author": "495",
+      "category": "politics"
+    },
+    {
+      "title": "ערוץ 14: מסתמן: השר עמיחי אליהו לא יגיש היום את המלצתו בחנינת נתניהו",
+      "title_en": "Channel 14: Minister Amichai Eliyahu won't submit his pardon recommendation for Netanyahu today",
+      "author": "אקטואלי",
+      "category": "politics"
+    },
+    {
+      "title": "מהי עמדת הפוליטיקאים משמאל על חמאס ועזה לפני ה7/10",
+      "title_en": "What was left-wing politicians' stance on Hamas and Gaza before Oct 7",
+      "author": "אלמוני",
+      "category": "politics"
+    },
+    {
+      "title": "ערד קרובה מניר עוז?",
+      "title_en": "Is Arad closer than Nir Oz?",
+      "author": "ilanka",
+      "category": "politics"
+    },
+    {
+      "title": "רופאים נגד דמוקרטיה ובעד דיקטטורה. תזכורת על הפנים האמיתיות של השמאל",
+      "title_en": "Doctors against democracy and for dictatorship. Reminder of the left's true face",
+      "author": "אלמוני",
+      "category": "politics"
+    },
+    {
+      "title": "ישראל בעשריה הפותחת במדד האושר העולמי למרות המלחמה",
+      "title_en": "Israel in top 10 of World Happiness Index despite the war",
+      "author": "אלמוני",
+      "category": "politics"
+    },
+    {
+      "title": "האם המקלטים הפכו לבתי כנסת שלא מאפשרים מיגון?",
+      "title_en": "Have shelters become synagogues that prevent protection?",
+      "author": "495",
+      "category": "domestic"
+    },
+    {
+      "title": "ברק מחמיא לנתניהו על רתימת טראמפ למאבק באיראן: הישג יוצא דופן",
+      "title_en": "Barak praises Netanyahu for harnessing Trump against Iran: extraordinary achievement",
+      "author": "ilanka",
+      "category": "politics"
+    },
+    {
+      "title": "לראשונה במלחמה: חיזבאללה שיגר טיל סקאד לעבר ישראל",
+      "title_en": "First time in war: Hezbollah fired Scud missile at Israel",
+      "author": "ilanka",
+      "category": "military"
+    },
+    {
+      "title": "לא ציפור ולא מטוס: השיר שהפך להמנון המלחמה",
+      "title_en": "'Neither bird nor plane': The song that became the war anthem",
+      "author": "ilanka",
+      "category": "culture"
+    },
+    {
+      "title": "מישהו חישב את ימי השגרה שלנו ב-5 השנים האחרונות. עצוב.",
+      "title_en": "Someone calculated our routine days in the last 5 years. Sad.",
+      "author": "גרפיטי",
+      "category": "domestic"
+    }
+  ]
+}

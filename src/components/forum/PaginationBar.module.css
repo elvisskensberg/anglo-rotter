@@ -1,0 +1,38 @@
+/* PaginationBar.module.css — Forum pagination with red page numbers */
+/* Source: scoops_forum.html lines 548-562, Pattern 6 in 03-RESEARCH.md */
+
+.wrapper {
+  font-family: var(--rotter-font-primary);
+  font-size: 13px;
+  color: var(--rotter-text-primary);
+  padding: 4px 0;
+}
+
+.pageLink {
+  color: var(--rotter-text-red);
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.pageLink:hover {
+  text-decoration: underline;
+}
+
+.currentPage {
+  color: var(--rotter-text-primary);
+  font-weight: bold;
+}
+
+.separator {
+  color: var(--rotter-text-default);
+  margin: 0 2px;
+}
+
+.rowsSelect {
+  font-family: var(--rotter-font-primary);
+  font-size: 13px;
+  color: var(--rotter-text-primary);
+  font-weight: bold;
+  margin-left: 8px;
+}

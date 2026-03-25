@@ -1,0 +1,21 @@
+.logoCell {
+  width: 290px;
+  background-color: var(--rotter-news-teal);
+  text-align: left;
+  padding: 8px;
+}
+
+.infoCell {
+  background-color: var(--rotter-news-teal);
+  vertical-align: top;
+}
+
+.dateCell {
+  text-align: left;
+  padding: 4px;
+}
+
+.sectionTitle {
+  background-color: var(--rotter-row-even);
+  color: var(--rotter-text-primary);
+}

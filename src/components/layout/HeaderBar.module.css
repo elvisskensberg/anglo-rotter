@@ -1,0 +1,40 @@
+.headerOuter {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.headerTable {
+  width: var(--rotter-container);
+  background: linear-gradient(
+    to right,
+    var(--rotter-header-blue),
+    var(--rotter-subheader-blue),
+    var(--rotter-header-blue)
+  );
+}
+
+.logoCell {
+  width: 335px;
+  padding: 5px;
+}
+
+.dateCell {
+  text-align: right;
+  padding: 5px 10px;
+  vertical-align: middle;
+}
+
+.dateText {
+  color: var(--rotter-text-header);
+  font-size: var(--rotter-size-sm);
+  font-weight: bold;
+  font-family: var(--rotter-font-primary);
+}
+
+.authCell {
+  text-align: right;
+  vertical-align: middle;
+  white-space: nowrap;
+  padding-right: 10px;
+}

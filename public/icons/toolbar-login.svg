@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" width="33" height="33">
+  <!-- Login toolbar icon: person/key icon in #000099 -->
+  <!-- Background -->
+  <rect width="33" height="33" fill="#EEEEEE"/>
+  <rect width="33" height="33" fill="none" stroke="#000099" stroke-width="1"/>
+  <!-- Person silhouette: head circle -->
+  <circle cx="16" cy="10" r="5" fill="#000099"/>
+  <!-- Person silhouette: body -->
+  <path d="M6,28 C6,20 26,20 26,28" fill="#000099"/>
+  <!-- Small key icon overlay -->
+  <circle cx="25" cy="25" r="3" fill="none" stroke="#000099" stroke-width="1.5"/>
+  <rect x="25" y="27" width="5" height="1.5" fill="#000099"/>
+  <rect x="28" y="27" width="1.5" height="3" fill="#000099"/>
+</svg>

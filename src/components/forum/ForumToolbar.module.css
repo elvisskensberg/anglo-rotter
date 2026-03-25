@@ -1,0 +1,17 @@
+/* ForumToolbar.module.css — Toolbar icon row above the forum thread table */
+/* Source: scoops_forum.html line 439, Pattern 7 in 03-RESEARCH.md */
+
+.toolbarTable {
+  /* Inherits table-based layout */
+}
+
+.label {
+  font-family: var(--rotter-font-primary);
+  font-size: small;
+  color: var(--rotter-text-primary);
+  text-decoration: none;
+}
+
+.label:hover {
+  text-decoration: underline;
+}

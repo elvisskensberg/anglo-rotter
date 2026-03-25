@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Hot news indicator: exclamation mark in red for hot thread view counts -->
+  <rect x="6" y="2" width="4" height="8" rx="1" fill="red"/>
+  <rect x="6" y="12" width="4" height="3" rx="1" fill="red"/>
+</svg>

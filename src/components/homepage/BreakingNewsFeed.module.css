@@ -1,0 +1,15 @@
+.timeLabel {
+  font-size: var(--rotter-size-xs);   /* 9pt */
+  color: var(--rotter-text-time);     /* red */
+  font-weight: bold;
+}
+
+.headlineLink {
+  font-size: var(--rotter-size-news-headline); /* 10pt */
+  color: var(--rotter-text-primary);            /* #000099 */
+  text-decoration: none;
+}
+
+.headlineLink:hover {
+  text-decoration: underline;
+}

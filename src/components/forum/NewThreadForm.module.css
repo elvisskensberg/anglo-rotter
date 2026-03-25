@@ -1,0 +1,95 @@
+/* NewThreadForm.module.css — Form for posting a new thread */
+/* Matches Rotter's retro table-based form aesthetic */
+
+.container {
+  width: 100%;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+}
+
+.formTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.headerRow {
+  background-color: var(--rotter-subheader-blue);
+}
+
+.headerCell {
+  padding: 4px 8px;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.labelCell {
+  padding: 4px 8px;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  font-weight: bold;
+  white-space: nowrap;
+  vertical-align: top;
+  width: 80px;
+}
+
+.inputCell {
+  padding: 4px 8px;
+}
+
+.input {
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #999;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  padding: 2px 4px;
+}
+
+.textarea {
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #999;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  padding: 2px 4px;
+  resize: vertical;
+}
+
+.submitButton {
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  background-color: var(--rotter-row-even);
+  border: 1px solid #999;
+  cursor: pointer;
+  padding: 4px 12px;
+}
+
+.submitButton:hover {
+  background-color: #dddddd;
+}
+
+.submitButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.errorMessage {
+  color: #cc0000;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  padding: 4px 8px;
+}
+
+.loginPrompt {
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  padding: 8px;
+  background-color: var(--rotter-row-odd);
+}
+
+.loginLink {
+  color: var(--rotter-link-color, #000099);
+  text-decoration: underline;
+}

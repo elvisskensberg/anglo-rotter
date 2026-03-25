@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335 50" width="335" height="50">
+  <!-- MultiRotter site logo placeholder -->
+  <!-- Background matching Rotter header style -->
+  <rect width="335" height="50" fill="#71B7E6"/>
+  <!-- Inner gradient overlay for depth -->
+  <defs>
+    <linearGradient id="logoGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#AADDFF"/>
+      <stop offset="100%" stop-color="#3293CD"/>
+    </linearGradient>
+  </defs>
+  <rect width="335" height="50" fill="url(#logoGrad)" opacity="0.6"/>
+  <!-- Site name text -->
+  <text
+    x="167"
+    y="33"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    font-weight="bold"
+    fill="#000099"
+    letter-spacing="1"
+  >MultiRotter</text>
+  <!-- Decorative underline -->
+  <rect x="10" y="42" width="315" height="2" fill="#000099" opacity="0.4"/>
+</svg>

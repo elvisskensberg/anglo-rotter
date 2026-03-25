@@ -1,0 +1,353 @@
+{
+  "snapshot_date": "2026-03-22T18:45:00+03:00",
+  "forum": "scoops1",
+  "forum_name": "סקופים וחדשות (Scoops & News)",
+  "total_threads_scraped": 60,
+  "pages_scraped": 2,
+  "highest_thread_id": 940171,
+  "threads": [
+    {
+      "id": 940171,
+      "title": "צבע אדום (18:42): שלומי, מטה אשר, מעלה יוסף",
+      "title_en": "Red Alert (18:42): Shlomi, Mateh Asher, Ma'ale Yosef",
+      "author": null,
+      "date": "22/03/2026 18:42",
+      "url": "https://rotter.net/forum/scoops1/940171.shtml",
+      "category": "security_alert"
+    },
+    {
+      "id": 940169,
+      "title": "חדירת כלי טיס (18:42): ירכא, מעלות תרשיחא, מעלה יוסף, מטה אשר",
+      "title_en": "UAV infiltration (18:42): Yirka, Ma'alot-Tarshiha, Ma'ale Yosef, Mateh Asher",
+      "author": null,
+      "date": "22/03/2026 18:42",
+      "url": "https://rotter.net/forum/scoops1/940169.shtml",
+      "category": "security_alert"
+    },
+    {
+      "id": 940168,
+      "title": "סמוטריץ בהלווית יהודה שמואל שרמן הי''ד: אנחנו נמוטט את רשות הרוע והטרור המכונה הרש''פ",
+      "title_en": "Smotrich at funeral: We will collapse the PA",
+      "author": "טוק דוגרי",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940168.shtml",
+      "category": "politics"
+    },
+    {
+      "id": 940165,
+      "title": "בג״ץ מסרב לשדר את הדיון שעתיד להתקיים מחר בעניין ארגוני הסיוע",
+      "title_en": "Supreme Court refuses to broadcast hearing on aid organizations",
+      "author": "mortzix",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940165.shtml",
+      "category": "legal",
+      "comments_scraped": true,
+      "comment_count": 36
+    },
+    {
+      "id": 940154,
+      "title": "היועמ''שית למפכ''ל: הפסק מיידית את פעילות ''מדור ההסתות'' של בן גביר",
+      "title_en": "AG to Police Commissioner: Stop Ben Gvir's Incitement Division immediately",
+      "author": "השולף",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940154.shtml",
+      "category": "politics"
+    },
+    {
+      "id": 940152,
+      "title": "יאיר גולן הגיע לזירת הנפילה בדימונה וגורש בבושת פנים",
+      "title_en": "Yair Golan arrived at missile impact site in Dimona and was chased away",
+      "author": "יוניגר",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940152.shtml",
+      "category": "politics"
+    },
+    {
+      "id": 940151,
+      "title": "צה״ל בודק אם עופר מוסקוביץ ז''ל נהרג במשגב-עם מאש צה״ל",
+      "title_en": "IDF investigating if Ofer Moskovitz was killed by friendly fire at Misgav Am",
+      "author": "יוניגר",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940151.shtml",
+      "category": "military"
+    },
+    {
+      "id": 940140,
+      "title": "דרגי המקצוע ממליצים לסגור את נתב''ג והשמיים מיידית (חדשות13)",
+      "title_en": "Professionals recommend closing Ben Gurion Airport immediately",
+      "author": "פיקולו",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940140.shtml",
+      "category": "security"
+    },
+    {
+      "id": 940138,
+      "title": "התרעות לשיגורים מאיראן לדרום (18:21)",
+      "title_en": "Alerts for launches from Iran toward south (18:21)",
+      "author": "מזרח_תיכון",
+      "date": "22/03/2026 18:21",
+      "url": "https://rotter.net/forum/scoops1/940138.shtml",
+      "category": "security_alert"
+    },
+    {
+      "id": 940137,
+      "title": "חרדים חוסמים את ציר הרכבת הקלה בבירה",
+      "title_en": "Ultra-Orthodox blocking light rail in Jerusalem",
+      "author": "יוניגר",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940137.shtml",
+      "category": "domestic",
+      "comments_scraped": true,
+      "comment_count": 27
+    },
+    {
+      "id": 940128,
+      "title": "אשכול מתעדכן לתקיפות באיראן",
+      "title_en": "Updating thread on strikes in Iran",
+      "author": "Izhack111",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940128.shtml",
+      "category": "military",
+      "views": 10905,
+      "comments_scraped": true,
+      "comment_count": 13
+    },
+    {
+      "id": 940099,
+      "title": "עדכון מצב פצועים מערד פרופ' דן שוורצפוקס",
+      "title_en": "Casualty update from Arad - Prof. Dan Schwarzfuchs",
+      "author": "dj_deep",
+      "date": "22/03/2026",
+      "url": "https://rotter.net/forum/scoops1/940099.shtml",
+      "category": "security",
+      "views": 21436,
+      "comments_scraped": true,
+      "comment_count": 42
+    },
+    {
+      "id": null,
+      "title": "בכיר בממשל אובמה לשעבר: נתניהו שקרן כי עלי חאמנאי הוציא פתווה נגד פיתוח נשק גרעיני",
+      "title_en": "Former Obama official: Netanyahu is a liar because Khamenei issued fatwa against nuclear weapons",
+      "author": "ניחוש מושכל",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "טראמפ: עכשיו, עם מותה של איראן, האויב הגדול ביותר שיש לאמריקה הוא המפלגה הדמוקרטית",
+      "title_en": "Trump: Now with Iran's death, America's greatest enemy is the Democratic Party",
+      "author": "Prodigy",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "בריטניה: פרו פלסטינית כינתה פרו ישראלי Wannabe Jew - הוא הושעה",
+      "title_en": "UK: Pro-Palestinian called pro-Israeli 'Wannabe Jew' - he was suspended",
+      "author": "ניחוש מושכל",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "משרד הבריאות הלבנוני: 1,029 הרוגים ו-2,786 פצועים מתחילת סבב הלחימה",
+      "title_en": "Lebanese Health Ministry: 1,029 killed, 2,786 wounded since fighting began",
+      "author": "אמירוס",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "דיווח: קטאר מנסה למנוע הסלמה בין איראן לארה״ב, סעודיה ואמירויות מבקשות מוושינגטון להמשיך",
+      "title_en": "Qatar trying to prevent escalation; Saudi/UAE want US to continue",
+      "author": "ניחוש מושכל",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "סודן: ארגון הבריאות העולמי - צבא סודן שיגר כטב''מ לבית חולים וקטל 64 אנשים",
+      "title_en": "Sudan: WHO says Sudan army drone hit hospital, killed 64",
+      "author": "יוסריאן",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "שר החוץ הטורקי שוחח עם שרי החוץ של איראן ומצרים",
+      "title_en": "Turkish FM spoke with Iranian and Egyptian FMs",
+      "author": "ניחוש מושכל",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "צפו: פגיעה ישירה בחוף במרכז הארץ באחד המטחים היום",
+      "title_en": "Watch: Direct hit on beach in central Israel",
+      "author": "הפיראט",
+      "date": "22/03/2026",
+      "category": "security",
+      "views": 24876
+    },
+    {
+      "id": null,
+      "title": "נתניהו בערד: אם כולם היו נכנסים למרחבים המוגנים, אף אחד לא היה נפגע",
+      "title_en": "Netanyahu in Arad: If everyone entered shelters, nobody would have been hurt",
+      "author": "סוף מעשה",
+      "date": "22/03/2026",
+      "category": "politics"
+    },
+    {
+      "id": null,
+      "title": "משמרות המהפכה: אם טראמפ יממש את איומיו - נסגור את מצר הורמוז לחלוטין",
+      "title_en": "IRGC: If Trump follows through on threats, we will fully close Strait of Hormuz",
+      "author": null,
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "נשיא איראן פזשכיאן ברשת X: האשליה של מחיקת איראן מהמפה",
+      "title_en": "Iran's president on X: Illusion of wiping Iran off the map",
+      "author": "אמירוס",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "בדיקה כמה התעמולה האיראנית נעזרת בעיתון הארץ",
+      "title_en": "Checking how much Iranian propaganda relies on Haaretz",
+      "author": "יוניגר",
+      "date": "22/03/2026",
+      "category": "media"
+    },
+    {
+      "id": null,
+      "title": "סמוטריץ: לא לחכות ל-7 באוקטובר הבא. דורש לפרק את צבא הטרור הפלסטיני ביו''ש",
+      "title_en": "Smotrich: Don't wait for next Oct 7. Demands dismantling PA terror army in West Bank",
+      "author": "סוף מעשה",
+      "date": "22/03/2026",
+      "category": "politics"
+    },
+    {
+      "id": null,
+      "title": "אילון מאסק מכריז על פרויקט Terafab",
+      "title_en": "Elon Musk announces Terafab project",
+      "author": null,
+      "date": "22/03/2026",
+      "category": "tech"
+    },
+    {
+      "id": null,
+      "title": "דיווחים ערבים על 4 מחוסלים בתקיפת רכב משטרתי של החמאס במרכז רצועת עזה",
+      "title_en": "Arab reports: 4 eliminated in strike on Hamas police vehicle in central Gaza",
+      "author": "Izhack111",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "מתחקיר ראשוני: מערכת THAAD האמריקאית היתה אמורה ליירט את הטיל בערד אולם פספסה",
+      "title_en": "Initial investigation: US THAAD system was supposed to intercept Arad missile but missed",
+      "author": "Mamani",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "דגל ישראל מתנוסס בכפר השיעי אל-ח׳יאם בדרום לבנון",
+      "title_en": "Israeli flag raised in Shiite village al-Khiam in south Lebanon",
+      "author": "Pinky Bite",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "גשר קסמיה הופצץ על הליטני",
+      "title_en": "Qasimiyeh bridge bombed on the Litani",
+      "author": "יוניגר",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "ערוץ אל-חדת' הסעודי: משמרות המהפכה של איראן מממנים פוליטיקאים ואישי תקשורת בלבנון",
+      "title_en": "Saudi Al-Hadath: IRGC funds Lebanese politicians and media figures",
+      "author": "קורנס",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "ב''ב - חתכה פיאות של ילד חרדי כי כדור ששיחק בו הפיל פח בסמוך לה",
+      "title_en": "Bnei Brak - woman cut ultra-Orthodox boy's sidelocks because his ball knocked over a bin",
+      "author": "ניחוש מושכל",
+      "date": "22/03/2026",
+      "category": "domestic"
+    },
+    {
+      "id": null,
+      "title": "ישראל הזהירה את ראש ממשלת בריטניה: איראן פיתחה טילים בליסטיים המסוגלים לפגוע בלונדון",
+      "title_en": "Israel warned UK PM: Iran developed ballistic missiles capable of hitting London",
+      "author": "פודי בן קיפוד",
+      "date": "22/03/2026",
+      "category": "international"
+    },
+    {
+      "id": null,
+      "title": "תחקיר ראשוני על הפגיעות הישירות אמש בדימונה וערד באמצעות טילי קאדר איראניים",
+      "title_en": "Initial investigation of direct hits on Dimona and Arad by Iranian Qadr missiles",
+      "author": "אלון",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "4 תושבים מהנגב הואשמו שהבריחו נשק, סמים, בעלי חיים וסחורות באמצעות רחפנים מגבולות מצרים וירדן",
+      "title_en": "4 Negev residents charged with smuggling weapons, drugs, animals via drones from Egypt/Jordan",
+      "author": "נעמה",
+      "date": "22/03/2026",
+      "category": "domestic"
+    },
+    {
+      "id": null,
+      "title": "לילה אלים בשטחים: יותר מ-20 אירועי פשיעה לאומנית נגד פלסטינים",
+      "title_en": "Violent night in territories: 20+ nationalist crime incidents against Palestinians",
+      "author": "Pinky Bite",
+      "date": "22/03/2026",
+      "category": "security"
+    },
+    {
+      "id": null,
+      "title": "הותר לפרסום: עופר (פושקו) מוסקוביץ׳ ז״ל הוא ההרוג מהירי למשגב עם",
+      "title_en": "Cleared for publication: Ofer Moskovitz killed by fire at Misgav Am",
+      "author": "Prodigy",
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "לאחר איום שר הביטחון, כוחותינו החלו לתקוף את גשרי הליטני",
+      "title_en": "Following Defense Minister's threat, forces began attacking Litani bridges",
+      "author": null,
+      "date": "22/03/2026",
+      "category": "military"
+    },
+    {
+      "id": null,
+      "title": "תיעוד הפגיעה במרכז תל אביב",
+      "title_en": "Documentation of the hit in central Tel Aviv",
+      "author": null,
+      "date": "22/03/2026",
+      "category": "security"
+    },
+    {
+      "id": null,
+      "title": "החברה הישראלית סנטינל וואן השקיעה בחברת רפליט (Replit) שמנכ''לה מאשים את ישראל ברצח עם",
+      "title_en": "Israeli company SentinelOne invested in Replit whose CEO accuses Israel of genocide",
+      "author": null,
+      "date": "22/03/2026",
+      "category": "tech"
+    }
+  ]
+}

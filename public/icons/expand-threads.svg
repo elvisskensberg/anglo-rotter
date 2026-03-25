@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Expand threads toggle: plus/expand icon in #000099 -->
+  <rect x="1" y="1" width="14" height="14" fill="none" stroke="#000099" stroke-width="1"/>
+  <!-- Horizontal bar of plus sign -->
+  <rect x="3" y="7" width="10" height="2" fill="#000099"/>
+  <!-- Vertical bar of plus sign -->
+  <rect x="7" y="3" width="2" height="10" fill="#000099"/>
+</svg>

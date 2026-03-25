@@ -1,0 +1,9 @@
+.sortLink {
+  color: #ff6600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.sortLink:hover {
+  text-decoration: underline;
+}

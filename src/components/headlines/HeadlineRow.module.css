@@ -1,0 +1,29 @@
+/* HeadlineRow CSS Module — styling for headline page row cells */
+
+/* Thread title link: 15px Arial bold navy */
+.text15bn {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000099;
+  text-decoration: none;
+}
+
+.text15bn:hover {
+  text-decoration: underline;
+}
+
+/* Bold 13px time text */
+.text13b {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* Red bold 13px author text */
+.text13r {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: red;
+}

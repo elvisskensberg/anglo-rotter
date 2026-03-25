@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- New/unread thread: document icon with star indicator -->
+  <rect x="2" y="3" width="10" height="10" fill="#000099"/>
+  <polygon points="9,3 12,6 9,6" fill="#3333BB"/>
+  <rect x="9" y="3" width="3" height="3" fill="#000099"/>
+  <line x1="9" y1="3" x2="12" y2="6" stroke="#6666CC" stroke-width="0.5"/>
+  <rect x="4" y="6" width="6" height="1" fill="#FFFFFF" opacity="0.5"/>
+  <rect x="4" y="8" width="6" height="1" fill="#FFFFFF" opacity="0.5"/>
+  <!-- Star indicator for "new" -->
+  <circle cx="13" cy="3" r="3" fill="#FF8400"/>
+  <polygon points="13,1 13.5,2.5 15,2.5 13.8,3.3 14.3,5 13,4.1 11.7,5 12.2,3.3 11,2.5 12.5,2.5" fill="#FFFFFF" transform="scale(0.55) translate(12,1)"/>
+</svg>

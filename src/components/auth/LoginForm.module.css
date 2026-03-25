@@ -1,0 +1,101 @@
+/* LoginForm.module.css — Rotter-styled login form */
+
+.formContainer {
+  max-width: 400px;
+  margin: 32px auto;
+  padding: 16px;
+  background: var(--rotter-row-odd);
+  border: 1px solid #999;
+  font-family: var(--rotter-font-primary);
+}
+
+.title {
+  font-size: var(--rotter-size-post-title);
+  font-weight: bold;
+  color: var(--rotter-text-primary);
+  margin-bottom: 12px;
+  border-bottom: 1px solid #999;
+  padding-bottom: 6px;
+}
+
+.fieldRow {
+  margin-bottom: 10px;
+}
+
+.label {
+  display: block;
+  font-size: var(--rotter-size-sm);
+  color: var(--rotter-text-default);
+  margin-bottom: 3px;
+}
+
+.input {
+  width: 100%;
+  padding: 5px 6px;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-base);
+  border: 1px solid #999;
+  background: #fff;
+  color: var(--rotter-text-default);
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--rotter-subheader-blue);
+}
+
+.submitRow {
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.submitBtn {
+  background: var(--rotter-row-even);
+  border: 1px solid #999;
+  cursor: pointer;
+  padding: 5px 16px;
+  font-family: var(--rotter-font-primary);
+  font-size: var(--rotter-size-sm);
+  color: var(--rotter-text-default);
+}
+
+.submitBtn:hover:not(:disabled) {
+  background: var(--rotter-dropdown-bg);
+}
+
+.submitBtn:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.error {
+  color: red;
+  font-size: var(--rotter-size-sm);
+  margin-top: 8px;
+}
+
+.success {
+  color: var(--rotter-green-rating);
+  font-size: var(--rotter-size-sm);
+  margin-bottom: 10px;
+  padding: 6px;
+  border: 1px solid var(--rotter-green-rating);
+  background: #f0fff4;
+}
+
+.registerLink {
+  margin-top: 12px;
+  font-size: var(--rotter-size-sm);
+  color: var(--rotter-text-default);
+}
+
+.link {
+  color: var(--rotter-text-primary);
+  text-decoration: underline;
+}
+
+.link:hover {
+  color: var(--rotter-lastby-link);
+}

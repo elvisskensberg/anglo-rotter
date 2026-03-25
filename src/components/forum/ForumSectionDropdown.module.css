@@ -1,0 +1,10 @@
+/* ForumSectionDropdown.module.css — Forum section category selector */
+/* Source: scoops_forum.html lines 280-293 in 03-RESEARCH.md */
+
+.select {
+  font-family: var(--rotter-font-primary);
+  font-size: 13px;
+  color: var(--rotter-text-primary);
+  font-weight: bold;
+  cursor: pointer;
+}

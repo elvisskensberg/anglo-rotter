@@ -1,0 +1,55 @@
+{
+  "project": "MultiRotter - Rotter.net Tracker",
+  "last_updated": "2026-03-22T18:45:00+03:00",
+  "scrape_history": [
+    {
+      "date": "2026-03-22",
+      "time_israel": "18:45",
+      "forums_scraped": ["scoops1", "politics", "enews"],
+      "threads_indexed": 75,
+      "threads_with_comments": 5,
+      "total_comments_captured": 120,
+      "highest_thread_id": 940171,
+      "pages_scraped": {
+        "scoops1": 2,
+        "politics": 1,
+        "enews": 1
+      },
+      "files_created": [
+        "data/snapshots/scoops1_2026-03-22.json",
+        "data/snapshots/politics_2026-03-22.json",
+        "data/snapshots/enews_2026-03-22.json",
+        "data/threads/threads_with_comments_2026-03-22.json"
+      ],
+      "notes": "First scrape. Active Iran-Israel war coverage. Site blocks WebFetch (403/Cloudflare), curl with browser UA works."
+    }
+  ],
+  "scrape_config": {
+    "method": "curl with browser User-Agent",
+    "encoding": "windows-1255 -> utf-8 via iconv",
+    "base_url": "https://rotter.net",
+    "forum_list_pattern": "/cgi-bin/forum/dcboard.cgi?az=list&forum={forum}",
+    "thread_pattern": "/forum/{forum}/{thread_id}.shtml",
+    "mobile_pattern": "/mobile/viewmobile.php?forum={forum}&thread={thread_id}",
+    "pagination_pattern": "&mm={page}&archive=",
+    "threads_per_page": 30,
+    "max_pages": 100
+  },
+  "available_forums": {
+    "scoops1": {"name": "סקופים וחדשות", "name_en": "Scoops & News", "type": "main"},
+    "politics": {"name": "פוליטיקה", "name_en": "Politics", "type": "discussion"},
+    "hazaaka": {"name": "הזעקה", "name_en": "The Outcry", "type": "discussion"},
+    "media": {"name": "ביקורת תקשורת", "name_en": "Media Criticism", "type": "discussion"},
+    "modiin": {"name": "מודיעין", "name_en": "Intelligence", "type": "discussion"},
+    "foreignpress": {"name": "עיתונות זרה", "name_en": "Foreign Press", "type": "discussion"},
+    "law": {"name": "משפטים", "name_en": "Law", "type": "discussion"},
+    "documents": {"name": "מסמכים", "name_en": "Documents", "type": "archive"},
+    "coffee": {"name": "הקפה", "name_en": "The Cafe", "type": "casual"},
+    "betmidrash": {"name": "בית המדרש", "name_en": "Torah", "type": "religious"}
+  },
+  "thread_data_schema": {
+    "per_thread": ["id", "title", "title_en", "author", "date", "url", "category", "views", "comment_count"],
+    "per_comment": ["post_number", "author", "member_since", "author_post_count", "raters", "rating_points", "has_feedback", "hebrew_date", "time", "date", "reply_to", "content", "external_links", "images"],
+    "categories_used": ["security_alert", "military", "politics", "international", "security", "domestic", "legal", "media", "tech", "culture", "meta"]
+  }
+}

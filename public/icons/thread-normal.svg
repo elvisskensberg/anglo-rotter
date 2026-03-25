@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Document/envelope icon for standard forum thread -->
+  <rect x="2" y="3" width="10" height="10" fill="#000099"/>
+  <polygon points="9,3 12,6 9,6" fill="#3333BB"/>
+  <rect x="9" y="3" width="3" height="3" fill="#000099"/>
+  <line x1="9" y1="3" x2="12" y2="6" stroke="#6666CC" stroke-width="0.5"/>
+  <rect x="4" y="6" width="6" height="1" fill="#FFFFFF" opacity="0.5"/>
+  <rect x="4" y="8" width="6" height="1" fill="#FFFFFF" opacity="0.5"/>
+  <rect x="4" y="10" width="4" height="1" fill="#FFFFFF" opacity="0.5"/>
+</svg>

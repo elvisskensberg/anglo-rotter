@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" width="33" height="33">
+  <!-- Search toolbar icon: magnifying glass, #000099 -->
+  <!-- Background -->
+  <rect width="33" height="33" fill="#EEEEEE"/>
+  <rect width="33" height="33" fill="none" stroke="#000099" stroke-width="1"/>
+  <!-- Magnifying glass lens circle -->
+  <circle cx="13" cy="13" r="8" fill="none" stroke="#000099" stroke-width="2.5"/>
+  <!-- Magnifying glass handle -->
+  <line x1="19" y1="19" x2="29" y2="29" stroke="#000099" stroke-width="3" stroke-linecap="round"/>
+</svg>
