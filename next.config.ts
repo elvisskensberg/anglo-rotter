@@ -5,8 +5,6 @@ const withSerwist = withSerwistInit({
   swDest: "public/sw.js",
 });
 
-const nextConfig = {
-  output: "standalone" as const,
-};
+const nextConfig = {};
 
 export default withSerwist(nextConfig);
